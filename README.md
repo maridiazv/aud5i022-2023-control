@@ -11,7 +11,7 @@
 
 - código
 
-```arduino
+```cpp
 // encaro 1 28/04/2023
 // mitad Sofi <3 derecha
 // hecho con Arduino Uno y IDE 1.8.19
