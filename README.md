@@ -248,7 +248,8 @@ void loop() {
 - conclusiones
 Para crear un circuito se debe tener alma y un propósito, y en nuestro caso quisimos probar que dos arduinos se pueden entrelazar y crear algo hermoso <3
 
-y apesar de que fue muy cnfuso con una idea clara pudimos perserverar para cumplirla. :D
+y apesar de que fue muy confuso con una idea clara pudimos perserverar para cumplirla. :D
+tuvimos muchas opciones para que las luces se encendieran de cierta forma pero decidimos elegir el mejor medio posible para representar de mejor forma nuestra idea, que fue prender todas las luces al mismo tiempo con un solo botón
 
 inspiracion: proyecto de estudiante del semestre pasado
 
