@@ -11,6 +11,7 @@
 
 - código
 
+```arduino
 // encaro 1 28/04/2023
 // mitad Sofi <3 derecha
 // hecho con Arduino Uno y IDE 1.8.19
@@ -238,12 +239,15 @@ void loop() {
   }
 
 }
+```
 
 - imágenes
 ![alt](imagen_bonita.jpg)
 
 
 - conclusiones
+
+
 
 inspiracion: proyecto de estudiante del semestre pasado
 
