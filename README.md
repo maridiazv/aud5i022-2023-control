@@ -241,8 +241,8 @@ void loop() {
 
 - imágenes
 ![alt](imagen_bonita.jpg)
-![alt](video1.MP4)
-![alt](video2.MP4)
+
+
 - conclusiones
 
 inspiracion: proyecto de estudiante del semestre pasado
