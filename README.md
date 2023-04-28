@@ -246,8 +246,9 @@ void loop() {
 
 
 - conclusiones
+Para crear un circuito se debe tener alma y un propósito, y en nuestro caso quisimos probar que dos arduinos se pueden entrelazar y crear algo hermoso <3
 
-
+y apesar de que fue muy cnfuso con una idea clara pudimos perserverar para cumplirla. :D
 
 inspiracion: proyecto de estudiante del semestre pasado
 
