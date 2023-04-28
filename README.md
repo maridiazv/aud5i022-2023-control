@@ -240,7 +240,7 @@ void loop() {
 }
 
 - imágenes
-![alt]
+![alt](imagen_bonita.jpg)
 - conclusiones
 
 inspiracion: proyecto de estudiante del semestre pasado
